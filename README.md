@@ -1,2 +1,2 @@
 # REST_Debug
-Application to be used as RESTFUL Debugger
+RESTFUL Debugger application written in QT
